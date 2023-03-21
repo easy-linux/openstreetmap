@@ -10,6 +10,17 @@
     npm run start
 ```
 
+Можно добавить ссылку на CDN библиотеки в <head> html страницы:
+
+
+```
+<script src="http://cdn.jsdelivr.net/gh/easy-linux/openstreetmap@master/1/build/easy-it-map.umd.js" type="module"></script>
+
+```
+
+И затем использовать веб компонент в любом месте этой страницы
+
+
 ## Сериал по созданию SPA приложения на чистом JS
 https://www.youtube.com/playlist?list=PLCh6bwt6jth_fkFrU15eyY6Hv18NuWcwa
 
